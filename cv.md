@@ -37,4 +37,3 @@ return a * b
 ## English lvl:
 * Pre-Intermediate(Due to the fact that there is no constant language practice, it is difficult to learn new things. But when I worked in aviation, I mastered technical English well.)
 ***
-<img src="https://yt3.ggpht.com/ytc/AKedOLSiW6fTG18gPzO0qCpY03zq_8dAZMWWq28XXedp=s900-c-k-c0x00ffffff-no-rj" width="100" alt="RSS"/>
